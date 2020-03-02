@@ -9,7 +9,7 @@ namespace FizzBuzz
              {  
         int n = 100; 
   
-        // loop for 100 times 
+       
         for (int i = 1; i <= n; i++)                              
         { 
             // number divisible by 5,  
@@ -38,9 +38,10 @@ namespace FizzBuzz
     } 
 } 
   
-// This code is contributed 
-// by shiv_bhakt. 
+
 
     }
  
 }
+//i got 
+//27 fizz,13 buzz,6 fizzbuzz
