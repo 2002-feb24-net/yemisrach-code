@@ -1,6 +1,6 @@
 ﻿using System;
  
-public class Palindrome:interface 
+public class Palindrome: Interface1
 {
     public static bool IsPalindrome(string text)
     {
@@ -16,12 +16,11 @@ public class Palindrome:interface
     }   
     public static void Main()
     {
+
+       Palindrome pal=new Palindrome();
      
       Console.Write("\n\n Recursion : Check whether a string ia Palindrome or not :\n");
      
-	  string str1;
-	  bool tf;
-		
       Console.Write(" Input a string : ");
       str1 = Console.ReadLine();
       tf=IsPalindrome(str1);
@@ -32,8 +31,7 @@ public class Palindrome:interface
       else
       {
        Console.WriteLine(" The string is not a Palindrome.\n");
-    
       }
-      
+      pal.IsPalindrome();
     }
 }
