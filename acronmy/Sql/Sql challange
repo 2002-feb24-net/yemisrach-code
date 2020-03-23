@@ -1,0 +1,17 @@
+INSERT INTO Customers (Id,CustomerName, LastName,CardNumber)
+VALUES (1,'Cardinal', 'Tom B. Erichsen', '4006' )
+       (2,'tina ','smith','3045')
+	   (3, 'yemisrach','Mekuria','4245')
+
+
+	   INSERT INTO Orders (Id,ProductId, Price)
+VALUES (1,'123','1' )
+       (2,'456 ','2')
+	   (3, '789','3')
+
+
+	   	   INSERT INTO Product (Id,FirstName, LastName,Id)
+VALUES (1,'iphne','200' )
+       (2,' Laptop','400')
+	   (3, 'ipod','300')
+

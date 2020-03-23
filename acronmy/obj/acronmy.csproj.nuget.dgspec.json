@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\revature\\yemisrach-code\\acronmy\\acronmy.csproj": {}
+    "C:\\revature\\yemisrach-code\\acronmy\\acronmy.csproj": {}
   },
   "projects": {
-    "c:\\revature\\yemisrach-code\\acronmy\\acronmy.csproj": {
+    "C:\\revature\\yemisrach-code\\acronmy\\acronmy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\revature\\yemisrach-code\\acronmy\\acronmy.csproj",
+        "projectUniqueName": "C:\\revature\\yemisrach-code\\acronmy\\acronmy.csproj",
         "projectName": "acronmy",
-        "projectPath": "c:\\revature\\yemisrach-code\\acronmy\\acronmy.csproj",
+        "projectPath": "C:\\revature\\yemisrach-code\\acronmy\\acronmy.csproj",
         "packagesPath": "C:\\Users\\et\\.nuget\\packages\\",
-        "outputPath": "c:\\revature\\yemisrach-code\\acronmy\\obj\\",
+        "outputPath": "C:\\revature\\yemisrach-code\\acronmy\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\et\\AppData\\Roaming\\NuGet\\NuGet.Config",
